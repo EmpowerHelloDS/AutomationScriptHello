@@ -69,6 +69,7 @@ namespace EmpowerHello_1
 		public void Run(IEngine engine)
 		{
 			engine.GenerateInformation("Hello World");
+			//change
 		}
 	}
 }
